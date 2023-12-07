@@ -1,0 +1,71 @@
+html{
+    font-size: 22px;
+}
+
+body{
+    background-color: rgba(248, 105, 2, 0.432);
+    color: black; 
+}
+body{
+    display: inline-block;
+    border: none;
+}
+a {
+    color: blueviolet
+
+}
+a:visited {
+    color: rgb(4, 0, 245);
+    display: inline-block;
+
+}
+
+a:hover, a:active {
+    color: aquamarine;
+
+
+}
+time {
+    border: 1px solid rgb(177, 5, 5);
+    font-weight: courier new; 
+    border-collapse: collapse;
+    padding: 0.5rem;
+    color: rgb(0, 0, 0);
+}
+fig img{
+
+    border: 8px;
+    padding: 10px;
+    
+}
+form legend{
+  
+
+  background-color: rgba(3, 28, 173, 0.938);
+  display: -ms-inline-grid
+   -moz-popup
+}
+    
+
+form {
+  
+
+  background-color: rgba(79, 173, 3, 0.877);
+  display: -ms-inline-grid
+   -moz-popup
+}
+
+form button, a{
+  
+
+    background-color: rgba(212, 11, 212, 0.938);
+    display: -ms-inline-grid
+     -moz-popup
+     
+  }
+
+
+main {
+    background-color: rgba(106, 142, 35, 0.411);
+
+}
